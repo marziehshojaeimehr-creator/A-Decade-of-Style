@@ -39,7 +39,7 @@ Visitors can interact with the exhibition through:
 
 ## Screenshots
 
-![Entrance Banner](screenshots/01.jpg)
+![](screenshots/01.jpg)
 
 ![](screenshots/10.jpg)
 
